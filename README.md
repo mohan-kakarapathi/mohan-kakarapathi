@@ -11,11 +11,15 @@ I'm a software engineer with experience in building backend applications, REST A
 - Exploring LLM-powered applications and Retrieval-Augmented Generation (RAG)
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, JavaScript, Node.js
-- **Backend:** FastAPI, REST APIs, Microservices
-- **Cloud & DevOps:** AWS, Docker, Kubernetes
-- **Observability:** OpenTelemetry
-- **AI/ML:** Generative AI, LLMs, RAG, Vector Databases
+
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Backend Development:** Node.js, Express.js, FastAPI, Pydantic, REST APIs, Microservices
+- **Authentication & Authorization:** JWT, Role-Based Access Control (RBAC)
+- **Databases:** PostgreSQL, MongoDB, ChromaDB (Vector Database)
+- **AI & LLM Engineering:** Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), LangChain, Google Gemini API, Gemini Embeddings, Vector Embeddings, Semantic Search, Ollama
+- **Cloud & DevOps:** AWS (EC2, S3, IAM, ECR), Docker, Terraform
+- **Messaging & Observability:** Apache Kafka, OpenTelemetry, SigNoz
+- **Tools & Automation:** Git, GitLab, Bitbucket, Swagger, Postman, Appsmith, n8n
 
 ### 🎯 Areas of Interest
 - Generative AI and AI Agents
